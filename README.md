@@ -2,7 +2,7 @@
 
 A client brief builder: eight short sections — overview, goals, audience, scope, requirements, budget and constraints, risks, milestones — with a gap checker that flags what’s missing or contradictory, then a clean brief to print or export as Markdown for sign-off.
 
-**Live demo:** [https://briefcraft.vercel.app/](https://briefcraft.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
+**Live demo:** [https://briefcraft-app.vercel.app/](https://briefcraft-app.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
 
 ![Landing with brief health](docs/landing.png)
 
